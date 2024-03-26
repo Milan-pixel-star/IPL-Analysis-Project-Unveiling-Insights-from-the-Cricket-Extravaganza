@@ -1,0 +1,2 @@
+# IPL-Analysis-Project-Unveiling-Insights-from-the-Cricket-Extravaganza
+This code explores the data from the Indian Premier League (IPL) cricket tournament, aiming to uncover interesting insights about teams, players, and match outcomes.This code explores the data from the Indian Premier League (IPL) cricket tournament, aiming to uncover interesting insights about teams, players, and match outcomes.
